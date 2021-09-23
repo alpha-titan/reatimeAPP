@@ -3,7 +3,7 @@ import React from "react";
 const Sidebar = () => {
 	return (
 		<div className="w-[20%] bg-blue-400 flex flex-col gap-y-40 items-center">
-			<div className=" text-3xl font-bold">Hashedin Chime </div>
+			<div className=" text-3xl font-bold">Video Chat </div>
 			<div className="w-full p-2">
 				{/* Meeting Link */}
 				<div className="flex w-full p-2 flex-col">
